@@ -1,0 +1,23 @@
+.movie-details {
+  display: flex;
+  margin: 2rem;
+}
+.movie-details > img {
+  margin-right: 2rem;
+  height: 350px;
+  width: 350px;
+}
+.description {
+  text-align: left;
+}
+.movie-cast {
+  margin-top: 1rem;
+  line-height: 20px;
+}
+header {
+  display: flex;
+  justify-content: flex-start;
+}
+header > img {
+  cursor: pointer;
+}

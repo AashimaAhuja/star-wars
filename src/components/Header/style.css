@@ -1,0 +1,20 @@
+header {
+  height: 4rem;
+  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header > img {
+  margin: 1rem;
+  height: 40px;
+  width: 80px;
+}
+header > input {
+  padding: 0.5rem;
+  border-radius: 5px;
+  width: 50%;
+  flex: 1;
+  margin: 20%;
+}

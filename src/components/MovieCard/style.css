@@ -1,0 +1,17 @@
+.card {
+  margin: 1rem;
+  background: #e7e7e7;
+  color: black;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 2px 2px 0px #fde819;
+}
+
+.card > h3 {
+  padding-left: 1rem;
+}
+.card > img {
+  height: 350px;
+  width: 350px;
+  cursor: pointer;
+}
