@@ -8,7 +8,7 @@ interface HeaderProps {
 const Header: React.FC<HeaderProps> = ({ onMovieSearch }) => {
   return (
     <header>
-      test test
+      test test 1
       <img src={logo} />
       <input
         type="text"
