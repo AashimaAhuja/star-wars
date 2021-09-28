@@ -49,6 +49,7 @@ const Home: React.FC = () => {
 
   return (
     <div>
+      <div>Git traiing test</div>
       <Header onMovieSearch={onMovieSearch} />
       {isLoading && <div data-testid="loader">Loading...</div>}
       <div className="movie-list">
