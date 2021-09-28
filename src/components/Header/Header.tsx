@@ -9,6 +9,7 @@ const Header: React.FC<HeaderProps> = ({ onMovieSearch }) => {
   return (
     <header>
       test 2q
+      <span>Which fruit do you like?</span>
       <img src={logo} />
       <input
         type="text"
